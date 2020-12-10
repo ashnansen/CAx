@@ -1,8 +1,10 @@
 # CAx
 This i a project about making an linux distro whit focus on design software like Freecad KiCad and other programs for Production invoriment.
-The distro is still in its starting face. 
+As a start it is a Ansebel scrip we are aming for. Do to that the distro is still in it's starting face. 
 
-The Distro will contain programs like 
+At the moment there is a lot of reacearch about programs that the distro could be build with. 
+
+The Distro will contain programs like:
 
 CAD/CAM & 3D printing:
  
