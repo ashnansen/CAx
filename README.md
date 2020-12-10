@@ -1,6 +1,6 @@
 # CAx
 This i a project about making an linux distro whit focus on design software like Freecad KiCad and other programs for Production invoriment.
-
+The distro is still in its starting face. 
 
 The Distro will contain programs like 
 
@@ -18,5 +18,6 @@ Grafical design:
  
 Blender, Inkscape, Gimp and others.
 
-And some difrent Planing tools with capabelitys like Work Brakedown system. 
-Gant Chart and others. 
+And some Planing tools with Gant Chart and others. This could be OpenProject
+
+
