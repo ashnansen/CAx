@@ -9,13 +9,8 @@ If you have eany software that is not listed in the list below or have a project
 
 There wil be a project about each peace of software. 
 
-*FreeCAD
-*Inkscape
-*Gimp
-*Krita
-*OBS studio
-*Blender
-*OpenSCAD
+*FreeCAD *Darktable *Inkscape *Gimp *Krita *OBS studio *Blender
+*OpenSCAD *Cloudcompair
 *LibreCad
 *Pycam
 *Camotics.
