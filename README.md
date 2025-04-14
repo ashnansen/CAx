@@ -1,24 +1,39 @@
 # CAx
-This is a project about making an linux distro whit focus on design software like Freecad, KiCad and other programs for Production inviroment, and all what there are around getting a product to marked. 
-As a start it is a Ansebel scrip we are aming for. Do to that the distro is still in it's starting face. 
+This is a project about packing design programs like Gimp, Inkscape and FreeCAD for Debian stable. At time of writing the stable version of debian is 12 
+An exambel of what the objectic is.
+FreeCAD 1.0 is reseased and the version in Debian 12 the packet is Freecad 0.20.2
 
-At the moment there is a lot of reacearch about programs that the distro could be build with. 
+How do we get to the gole of packing the programs? 
+If you have any soruces abou test proceger ect. pleas make an Issue.  
+If you have eany software that is not listed in the list below or have a project make an issue.
 
-The Distro will contain programs like:
+There wil be a project about each peace of software. 
 
-Grafical design:
- 
-Blender, Inkscape, Gimp and others.
+*FreeCAD
+*Inkscape
+*Gimp
+*Krita
+*OBS studio
+*Blender
+*OpenSCAD
+*LibreCad
+*Pycam
+*Camotics.
+*Code-Aster
+*Code-Saturne
+*OpenFOAM
+*Elmer
+*FEM 
+*Calculix
+*Salome-Meca/CFD
+*Qgis
+*Paraview *Helyx-OS
+*Elmer GUI
+*CL Launcher/CAE & CGX *GMSH 
+*VoxelMesher
+*KiCad
+*Arduino
+*Flatcam
 
-And some Planing tools with Gant Chart and others. This could be OpenProject
 
-CAD/CAM & 3D printing:
- 
-Freecad, OpenSCAD, LibreCad, Pycam, Camotics.
-FEA, CFD & multiphysic simulation: Code-Aster, Code-Saturne, OpenFOAM, Elmer FEM, Calculix
-Meshing, pre-post, & visualization: Salome-Meca/CFD, Paraview, Helyx-OS, Elmer GUI, CL Launcher/CAE & CGX, GMSH, VoxelMesher
- 
-Electronic design KiCad, Arduino, Flatcam
- 
-Scientific & development tools: Python3 / Scipy with Spyder3, GNU Octave, R, wxMaxima, Qt Creator, gcc, gfortran, java, g++, perl, tcl/tk, R
  
