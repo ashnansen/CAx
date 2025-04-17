@@ -30,5 +30,9 @@ There wil be a project about each peace of software.
 *Arduino
 *Flatcam
 
+Making an bash script to install input devices. 
+
+Like Solaar and for wacom tablets, 3D connection ect. 
+
 
  
