@@ -28,6 +28,7 @@ There wil be a project about each peace of software.
 *VoxelMesher
 *KiCad
 *Arduino
+*Spacenav
 *Flatcam
 
 Making an bash script to install input devices. 
